@@ -1,3 +1,4 @@
+全变命名变小写.
                   STANDARD C LIBRARY CODE DISK V. 2.0
 
 This diskette contains all the source code from ``The Standard C Library,''
